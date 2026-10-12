@@ -1,0 +1,8 @@
+{
+  "version": "1.3.0",
+  "version_code": 10300,
+  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren.apk",
+  "notes": "初始版本：自动起课 / AI 解卦 / 模型可选 / 测试连接",
+  "force": false,
+  "min_version": "1.0.0"
+}
