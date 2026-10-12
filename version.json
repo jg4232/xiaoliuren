@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "version_code": 10500,
-  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren-1.4.0.apk",
-  "notes": "这是用于验证更新流程的测试版本号。手机端 1.4.0 会检测到本更新并走完整的下载安装流程。",
+  "version": "1.4.1",
+  "version_code": 10401,
+  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren-1.4.1.apk",
+  "notes": "修复更新功能导致的启动崩溃（引入 androidx.core 提供 FileProvider 实现）",
   "force": false,
   "min_version": "1.0.0"
 }
