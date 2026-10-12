@@ -1,8 +1,8 @@
 {
   "version": "1.4.2",
   "version_code": 10402,
-  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren-1.4.0.apk",
-  "notes": "临时版本号：验证 App 内更新完整流程（检查→下载→拉起安装）。指向 Release 里实际存在的 APK。",
+  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren-1.4.2.apk",
+  "notes": "修复更新功能导致的启动崩溃；更新源增加镜像兜底（GitHub raw 国内不稳）",
   "force": false,
   "min_version": "1.0.0"
 }
