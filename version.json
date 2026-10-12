@@ -1,8 +1,8 @@
 {
   "version": "1.4.0",
   "version_code": 10400,
-  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren.apk",
-  "notes": "新增联网更新：设置页可检查更新并直接下载安装",
+  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren-1.4.0.apk",
+  "notes": "新增联网更新：设置页可检查更新并直接下载安装；修复 HTTPS 证书；AI 解卦结果弹窗展示",
   "force": false,
   "min_version": "1.0.0"
 }
