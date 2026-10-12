@@ -1,8 +1,8 @@
 {
-  "version": "1.4.6",
-  "version_code": 102110406,
+  "version": "1.4.5",
+  "version_code": 102110405,
   "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren.apk",
-  "notes": "测试构建（不影响实际使用）\n\n本版本仅用于验证自动更新流程，安装后版本号仍显示 1.4.5。",
+  "notes": "更新更可靠 & 安装更顺畅\n\n- 修复：部分系统（MIUI/HyperOS）默认关闭「安装未知应用」权限，导致点安装无反应。现在会自动弹出授权页，授权后继续安装\n- 修复：检查更新可能因镜像缓存读到旧版本，误判为「已是最新」而无法升级。改为多源比对取最新\n- 优化：更新源增加 jsDelivr 通道，国内访问更稳\n- 优化：安装失败时显示具体原因，便于排查",
   "force": false,
   "min_version": "1.0.0"
 }
