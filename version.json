@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
-  "version_code": 10402,
-  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren-1.4.0.apk",
-  "notes": "修复更新功能导致的启动崩溃；更新源增加镜像兜底（GitHub raw 国内不稳）。\n注意：url 暂时指向 Release 里已有的 APK 文件，等你上传 1.4.2 的包后改成对应文件名即可。",
+  "version": "1.4.3",
+  "version_code": 102110403,
+  "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren.apk",
+  "notes": "手动起课 / 时刻对照 / AI 解卦 / 联网更新\n\n- 新增：起课用法提示（此刻起课 vs 手动补算）\n- 修复：联网更新下载后拉起安装器崩溃（FileProvider）\n- 修复：HTTPS 证书校验失败（改用 certifi 根证书）\n- 优化：解卦结果改为弹窗直显，可一键复制\n- 优化：设置页支持模型下拉、获取模型列表、测试连接、查看日志",
   "force": false,
   "min_version": "1.0.0"
 }
