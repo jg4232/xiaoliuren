@@ -1,8 +1,8 @@
 {
-  "version": "1.4.3",
-  "version_code": 102110403,
+  "version": "1.4.5",
+  "version_code": 102110405,
   "url": "https://github.com/jg4232/xiaoliuren/releases/latest/download/xiaoliuren.apk",
-  "notes": "手动起课 / 时刻对照 / AI 解卦 / 联网更新\n\n- 新增：起课用法提示（此刻起课 vs 手动补算）\n- 修复：联网更新下载后拉起安装器崩溃（FileProvider）\n- 修复：HTTPS 证书校验失败（改用 certifi 根证书）\n- 优化：解卦结果改为弹窗直显，可一键复制\n- 优化：设置页支持模型下拉、获取模型列表、测试连接、查看日志",
+  "notes": "安装权限自动引导\n\n- 修复：部分系统（MIUI/HyperOS）默认关闭「安装未知应用」权限，导致点安装无反应，现在会自动弹出授权页并在授权后继续安装\n- 优化：安装失败时显示具体原因，便于排查",
   "force": false,
   "min_version": "1.0.0"
 }
